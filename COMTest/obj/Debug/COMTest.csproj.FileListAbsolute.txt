@@ -1,0 +1,5 @@
+C:\Documents and Settings\2\Мои документы\Visual Studio 2008\Projects\COMTest\COMTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2\Мои документы\Visual Studio 2008\Projects\COMTest\COMTest\bin\Debug\COMTest.exe
+C:\Documents and Settings\2\Мои документы\Visual Studio 2008\Projects\COMTest\COMTest\bin\Debug\COMTest.pdb
+C:\Documents and Settings\2\Мои документы\Visual Studio 2008\Projects\COMTest\COMTest\obj\Debug\COMTest.exe
+C:\Documents and Settings\2\Мои документы\Visual Studio 2008\Projects\COMTest\COMTest\obj\Debug\COMTest.pdb
